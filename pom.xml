@@ -2040,7 +2040,7 @@
 
         <!--javax ws rs version-->
         <javax.ws.rs.version>2.0.1</javax.ws.rs.version>
-        <swagger.version>1.5.10</swagger.version>
+        <swagger.version>1.5.24</swagger.version>
         <swagger.annotations.version>1.5.10</swagger.annotations.version>
         <servlet-api.version>2.5</servlet-api.version>
 
