@@ -1891,7 +1891,7 @@
 
     <properties>
         <servelet.jsp.version>2.2.1</servelet.jsp.version>
-        <testng.version>6.1.1</testng.version>
+        <testng.version>6.10</testng.version>
         <carbon.kernel.version>4.4.11</carbon.kernel.version>
         <carbon.kernel.449.version>4.4.9</carbon.kernel.449.version>
         <carbon.kernel.version.range>[4.4.0, 5.0.0)</carbon.kernel.version.range>
@@ -1916,7 +1916,7 @@
         <!-- Testing -->
         <automation.test.framework.version>4.3.1</automation.test.framework.version>
         <automation.utils.version>4.3.0</automation.utils.version>
-        <testng.version>6.8</testng.version>
+        <testng.version>6.10</testng.version>
         <test.automation.emm.ui.version>1.1.0</test.automation.emm.ui.version>
         <junit.version>4.8.2</junit.version>
 
